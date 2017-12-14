@@ -30,7 +30,7 @@ Download from https://drive.google.com/open?id=1CCpSnxKqhn-knALfUo8JzHIdOjd9gnQ0
 
 ## Disclaimer
 I do not recover any loss by using this app.
-Please use it as your own risk.
+Please use it at your own risk.
 
 ## Contact
 Contact me if you have any suggestion or problem.
